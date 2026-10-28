@@ -12,7 +12,7 @@ def banner():
 
 if __name__ == "__main__":
     banner()
-    # --- ADD YOUR GREETING BELOW THIS LINE ---
+    # --- Below is a greeting from me ---
     print("Hello from sydneyjanemagbanua-netizen")  #this is a greeting from me
                                           #this is a test comment
 
